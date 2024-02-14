@@ -1,0 +1,6 @@
+@RestAPI_Maxxi_HostAddress = http://localhost:5298
+
+GET {{RestAPI_Maxxi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
